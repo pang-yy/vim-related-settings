@@ -16,7 +16,7 @@ mkdir .vim/colors
 wget https://raw.githubusercontent.com/tomasr/molokai/master/colors/molokai.vim -P ~/.vim/colors
 ```
 
-if error encounter, try running
+if error encounter, try to run
 
 ```sh
 sudo apt install vim-gui-common
