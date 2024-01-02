@@ -25,9 +25,9 @@ set sw=4 ts=4
 " Load the relevant plugins and indentation rules based on file types
 filetype plugin indent on
 " Enable 24-bit colors
-" set termguicolors
-" Use molokai as default color scheme
-color molokai
+set termguicolors
+color catppuccin_mocha
+" color molokai
 " To get around problem with seemingly random characters appear in certain
 " teminals.
 set t_RV=
