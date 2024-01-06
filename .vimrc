@@ -28,26 +28,12 @@ filetype plugin indent on
 set termguicolors
 color catppuccin_mocha
 " color molokai
-" To get around problem with seemingly random characters appear in certain
-" teminals.
+" To get around problem with seemingly random characters appear in certain teminals.
 set t_RV=
 set t_u7=
-
 " Show relative line numbers
 set relativenumber
-
 " Show current line number
 set number
-
 " turn belloff completely
-" set belloff=esc
 set t_vb=
-
-" Syntastic configuration
-" set statusline+=%#warningmsg#
-" set statusline+=%{SyntasticStatuslineFlag()}
-" set statusline+=%*
-" let g:syntastic_always_populate_loc_list = 1
-" let g:syntastic_auto_loc_list = 1
-" let g:syntastic_check_on_open = 1
-" let g:syntastic_check_on_wq = 0
